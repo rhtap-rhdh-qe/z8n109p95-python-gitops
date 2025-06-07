@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z8n109p95-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z8n109p95-python-gitops
